@@ -1,0 +1,31 @@
+ div{color:white; text-align: center; background-color: peru;}
+a{
+     color:white;}
+  ul{
+  color: white; background-color:peru; margin-top: 0; margin-bottom: 0;
+ }
+ h2{
+text-align: center; color:white; margin-bottom: 0px; margin-top: 0px; background-color: peru;
+ }
+h3{
+  text-align: center; color:white; margin-bottom: 0px; margin-top: 0px; background-color:peru;
+ }
+ table{
+    border:5px solid peru; margin-top: 0; margin-bottom: 0;
+
+      }
+      th{
+       border:3px solid peru;
+      }
+      td{
+       border:3px solid peru;
+      }  
+      tbody{
+        text-align: center;
+      }    
+      body{
+        background-color:blanchedalmond; font-family:Arial, Helvetica, sans-serif;
+      }    
+      head{
+        font-family:Arial, Helvetica, sans-serif;
+      }
